@@ -5,8 +5,7 @@ A stylish and animated React-based frontend for the **Pod-Clip** application. Th
 ---
 
 ## 📸 Demo
-
-![PodClip UI Screenshot](Screenshot 2025-06-25 111704.png) 
+![PodClip UI Screenshot](./Screenshot%202025-06-25%20111704.png)
 ---
 
 ## 🚀 Features
@@ -53,7 +52,7 @@ REACT_APP_API_URL=http://127.0.0.1:8000
 ```
 
 ## Download Backend and start it to running 
-![POD-CLIP-BACKEND](https://github.com/aks111hay/POD-CLIP-BACKEND)
+[![Backend Repo](https://img.shields.io/badge/Backend-POD--CLIP--BACKEND-blue?logo=github)](https://github.com/aks111hay/POD-CLIP-BACKEND)
 
 ## Running Locally
 ```
